@@ -1,0 +1,12 @@
+{
+  "dasqin": {
+    "hwid": "",
+    "expires": "2026-12-31",
+    "active": true
+  },
+  "seyid": {
+    "hwid": "",
+    "expires": "2029-06-01",
+    "active": true
+  }
+}
